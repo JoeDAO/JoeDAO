@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoeDAO
-- 👀 I’m interested in ...community building, webservers, and networking
-- 🌱 I’m currently learning ... NGINX, APACHE/TOMCAT
-- 💞️ I'm down to try anything
+- 👀 I’m interested in ...community building, webservers, operating systems, and white hat wizardry
+- 🌱 I’m currently learning ... NGINX & regex 
+- 💞️ I'm down to try anything, once.
 - 📫 prophetictech@protonmail.ch
 
 <!---
