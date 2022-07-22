@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JoeDAO
-- 👀 I’m interested in ...community building, webservers, operating systems, and white hat wizardry
-- 🌱 I’m currently learning ... NGINX & regex 
-- 💞️ I'm down to try anything, once.
-- 📫 prophetictech@protonmail.ch
+- 👀 I’m interested in ...community building, webservers, and preventing creation of the torment nexus
+- 🌱 I’m currently learning ... node.js and aircrack
+
 
 <!---
 JoeDAO/JoeDAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
