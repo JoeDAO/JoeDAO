@@ -1,5 +1,5 @@
  Welcome stranger.
-- 👀 I’m interested in ...community building, webservers, netorking and preventing creation of the torment nexus
+- 👀 I’m interested in ...community building, webservers, networking and preventing creation of the torment nexus
 - 🌱 I’m currently learning ... node.js and aircrack
 
 
